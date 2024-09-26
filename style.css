@@ -1,0 +1,143 @@
+body {
+  
+
+
+  margin: 0;
+  opacity: 0px;
+  background-color: white;
+}
+.top {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.poppins2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+header {
+  width: 98.5%;
+  height: 350px;
+  top: 13px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #7f6cef;
+  font-size: 50px;
+  color: white;
+  padding: 10px;
+}
+.rect {
+  width: 98%;
+  height: 40px;
+  top: 15px;
+  left: 10px;
+  gap: 0px;
+  border-radius: 10px;
+  opacity: 0px;
+  font-size: 20px;
+
+  padding-left: 10px;
+}
+.text {
+  font-size: 40px;
+  margin-left: 40px;
+}
+.boxes {
+  display: flex;
+  gap: 200px;
+  margin-left: 20px;
+}
+.boxes2 {
+  display: flex;
+  gap: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.box {
+  width: 40%;
+  height: 100px;
+  border: 1px solid #7f6cef;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+.text2 {
+  font-size: 20px;
+}
+.pic {
+  display: flex;
+  gap: 470px;
+  padding: 30px;
+}
+span{
+  color: lightgreen;
+}
+.da a{
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  
+}
+.da a:hover{
+  color: #a9a9a9;
+}
+.da a:visited{
+  color: none;
+}
+.window {
+  display: flex;
+  gap: 300px;
+  font-size: 30px;
+  margin-left: 20px;
+}
+.viewall {
+  border: 2px solid black;
+  text-align: center;
+  display: inline-block;
+  width: 80%;
+  height: 60px;
+  border-radius: 10px;
+  justify-content: center;
+  display: flex;
+  margin-left: 100px;
+  align-items: center;
+  font-size: 20px;
+}
+.flex {
+  display: flex;
+  gap: 40px;
+  margin-left: 30px;
+}
+.flex2 a {
+  text-decoration: none;
+  color: green;
+}
+
+footer {
+  width: 97%;
+  height: 270px;
+  opacity: 0px;
+  background-color: #7f6cef;
+  margin: 0;
+  color: white;
+  padding: 20px;
+  margin-top: 30px;
+}
+.irish-grover-regular {
+  font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  margin-top: 40px;
+}
+
